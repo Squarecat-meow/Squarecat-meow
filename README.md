@@ -4,7 +4,7 @@
 
 <h3>
 
-- 🔭 지금 이런걸 만들고 있어요: [네오-퀘스돈](https://github.com/Squarecat-meow/neo-quesdon)
+- 🔭 지금 이런걸 만들고 있어요: [네오-퀘스돈](https://github.com/Squarecat-meow/neo-quesdon), [놋치미나의 아늑한 집](https://github.com/Squarecat-meow/yunomina-blog)
 
 - 🌱 지금 배우고 있어요: **Postgresql, Next.js**
 
